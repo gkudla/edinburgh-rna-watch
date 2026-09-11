@@ -24,3 +24,7 @@ https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2011987|2026-09-1
 https://www.ingenza.com/careers/senior-scientist-i-molecular-biology/|2026-09-25|2026-09-10|Senior Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
 https://www.ingenza.com/careers/scientist-i-molecular-biology/|2026-09-25|2026-09-10|Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
 https://roslinct.teamtailor.com/jobs/8351710-manufacturing-biotechnologist-i-commercial-manufacturing|unknown|2026-09-10|Manufacturing Biotechnologist I RoslinCT BioQuarter CRISPR cell therapy GMP (marginal)
+https://www.jobs.ac.uk/job/DSW935/engineering-biology-pdra|2026-09-24|2026-09-11|Engineering Biology PDRA Roslin CRISPR variant libraries sequencing assays avian cells
+https://www.jobs.ac.uk/job/DSW899/postdoctoral-research-associate|2026-09-30|2026-09-11|PDRA germline-restricted chromosomes programmed DNA elimination epigenetics IEE Bradysia
+https://www.jobs.ac.uk/job/DSW926/postdoctoral-research-associate-in-biometrics-and-quantitative-genetics-for-public-breeding|2026-10-01|2026-09-11|PDRA Biometrics and Quantitative Genetics for Public Breeding Roslin genomic datasets (marginal)
+https://www.jobs.ac.uk/job/DSW920/postdoctoral-research-associate-in-applied-artificial-intelligence-for-public-breeding|2026-10-01|2026-09-11|PDRA Applied AI for Public Breeding Roslin genomic phenotypic datasets (marginal)
