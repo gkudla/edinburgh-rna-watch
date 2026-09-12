@@ -1,4 +1,3 @@
-https://www.jobs.ac.uk/job/DSM097/research-associate|2026-08-28|2026-08-26|Research Associate School of Informatics marginal ML/NLP bio-data
 https://www.jobs.ac.uk/job/DSM088/postdoctoral-research-associate|2026-08-31|2026-08-27|PDRA Carbon-Loop Biomanufacturing Hub Wallace lab
 https://www.jobs.ac.uk/job/DSQ830/research-assistant|2026-08-31|2026-08-27|Research Assistant chromosome segregation IGC
 https://www.jobs.ac.uk/job/DSS539/research-fellow|2026-09-04|2026-08-27|Research Fellow cold-induced thermogenesis snRNA-seq
@@ -28,3 +27,4 @@ https://www.jobs.ac.uk/job/DSW935/engineering-biology-pdra|2026-09-24|2026-09-11
 https://www.jobs.ac.uk/job/DSW899/postdoctoral-research-associate|2026-09-30|2026-09-11|PDRA germline-restricted chromosomes programmed DNA elimination epigenetics IEE Bradysia
 https://www.jobs.ac.uk/job/DSW926/postdoctoral-research-associate-in-biometrics-and-quantitative-genetics-for-public-breeding|2026-10-01|2026-09-11|PDRA Biometrics and Quantitative Genetics for Public Breeding Roslin genomic datasets (marginal)
 https://www.jobs.ac.uk/job/DSW920/postdoctoral-research-associate-in-applied-artificial-intelligence-for-public-breeding|2026-10-01|2026-09-11|PDRA Applied AI for Public Breeding Roslin genomic phenotypic datasets (marginal)
+https://www.jobs.ac.uk/job/DSX113/flow-cytometry-technician|2026-09-24|2026-09-12|Flow Cytometry Technician Institute of Genetics and Cancer Western General cell sorting
