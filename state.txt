@@ -1,9 +1,6 @@
-https://www.jobs.ac.uk/job/DSM088/postdoctoral-research-associate|2026-08-31|2026-08-27|PDRA Carbon-Loop Biomanufacturing Hub Wallace lab
-https://www.jobs.ac.uk/job/DSQ830/research-assistant|2026-08-31|2026-08-27|Research Assistant chromosome segregation IGC
 https://www.jobs.ac.uk/job/DSS539/research-fellow|2026-09-04|2026-08-27|Research Fellow cold-induced thermogenesis snRNA-seq
 https://www.jobs.ac.uk/job/DSQ840/post-doctoral-research-associate|2026-09-09|2026-08-27|PDRA Genome Biology Roslin chicken gut microbiome
 https://www.jobs.ac.uk/job/DSR298/postdoctoral-research-associate|2026-09-30|2026-08-27|PDRA fungal pathogen bioimaging strain engineering
-https://www.midlothiansciencezone.com/job-opportunities#ogibiotec-lab-technician|2026-08-31|2026-08-27|Lab Technician Ogibiotec microbial culturing automation
 https://moredun.factorialhr.co.uk/job_posting/study-director-319467|2026-09-23|2026-08-28|Study Director Moredun Scientific animal health vaccine R&D (marginal)
 https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2010146|2026-09-06|2026-08-28|Lab Technician Pathology Forest Research Roslin (marginal)
 https://roslinct.teamtailor.com/jobs/8245840-msat-scientist-clinical-manufacturing|unknown|2026-08-28|MSAT Scientist Clinical Manufacturing RoslinCT cell therapy (marginal)
@@ -27,5 +24,6 @@ https://www.jobs.ac.uk/job/DSW935/engineering-biology-pdra|2026-09-24|2026-09-11
 https://www.jobs.ac.uk/job/DSW899/postdoctoral-research-associate|2026-09-30|2026-09-11|PDRA germline-restricted chromosomes programmed DNA elimination epigenetics IEE Bradysia
 https://www.jobs.ac.uk/job/DSW926/postdoctoral-research-associate-in-biometrics-and-quantitative-genetics-for-public-breeding|2026-10-01|2026-09-11|PDRA Biometrics and Quantitative Genetics for Public Breeding Roslin genomic datasets (marginal)
 https://www.jobs.ac.uk/job/DSW920/postdoctoral-research-associate-in-applied-artificial-intelligence-for-public-breeding|2026-10-01|2026-09-11|PDRA Applied AI for Public Breeding Roslin genomic phenotypic datasets (marginal)
-https://www.jobs.ac.uk/job/DSX113/flow-cytometry-technician|2026-09-24|2026-09-12|Flow Cytometry Technician Institute of Genetics and Cancer Western General cell sorting
+https://www.jobs.ac.uk/job/DSX113/flow-cytometry-technician|2026-10-01|2026-09-12|Flow Cytometry Technician Institute of Genetics and Cancer Western General cell sorting
 https://moredun.factorialhr.co.uk/job_posting/senior-postdoctoral-research-scientist-321791|2026-09-25|2026-09-13|Senior Postdoctoral Research Scientist Moredun Toxoplasma detection proteomics PCR ELISA
+https://www.jobs.ac.uk/job/DSX799/post-doctoral-research-associate|2026-10-14|2026-09-15|PDRA DNA methylation DNMT3B gene-body transcription epigenomics IGC TT-seq CUT&RUN Nanopore hESC
