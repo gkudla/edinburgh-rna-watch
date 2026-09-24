@@ -1,4 +1,3 @@
-https://www.jobs.ac.uk/job/DSQ840/post-doctoral-research-associate|2026-09-09|2026-08-27|PDRA Genome Biology Roslin chicken gut microbiome
 https://www.jobs.ac.uk/job/DSR298/postdoctoral-research-associate|2026-09-30|2026-08-27|PDRA fungal pathogen bioimaging strain engineering
 https://moredun.factorialhr.co.uk/job_posting/study-director-319467|2026-09-23|2026-08-28|Study Director Moredun Scientific animal health vaccine R&D (marginal)
 https://roslinct.teamtailor.com/jobs/8245840-msat-scientist-clinical-manufacturing|unknown|2026-08-28|MSAT Scientist Clinical Manufacturing RoslinCT cell therapy (marginal)
@@ -33,3 +32,5 @@ https://www.jobs.ac.uk/job/DSY832/research-assistant|2026-10-14|2026-09-18|Resea
 https://www.jobs.ac.uk/job/DSY860/ktp-associate-in-molecular-modelling-and-biochar-fertiliser|2026-10-01|2026-09-20|KTP Associate Molecular Modelling and Biochar Fertiliser UoE School of Chemistry (marginal)
 https://www.jobs.ac.uk/job/DSZ839/research-associate-in-cell-culture-screening-of-proteins-and-nanomaterials|2026-10-05|2026-09-22|Research Associate cell culture screening proteins nanomaterials UoE Engineering primary neurons microfluidics
 https://www.jobs.ac.uk/job/DTA149/research-associate-in-nanomedicine|2026-10-05|2026-09-23|Research Associate in Nanomedicine UoE School of Engineering magnetic nanoparticles CNS drug delivery protein functionalisation (marginal)
+https://www.jobs.ac.uk/job/DTA702/research-technician|2026-10-07|2026-09-24|Research Technician INCR Donlin-Asp group local protein synthesis at synapses
+https://www.jobs.ac.uk/job/DTA728/research-assistant|2026-10-23|2026-09-24|Research Assistant IGC Sproul group DNA methylation gene regulation epigenomics variant libraries
