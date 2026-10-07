@@ -38,3 +38,5 @@ https://moredun.factorialhr.co.uk/job_posting/postdoctoral-research-scientist-32
 https://roslinct.teamtailor.com/jobs/8484923-quality-assurance-officer-ii|2026-10-15|2026-10-05|Quality Assurance Officer II RoslinCT Edinburgh BioQuarter cell and gene therapy GMP quality documentation (marginal)
 https://www.jobs.ac.uk/job/DTD877/postdoctoral-research-associate|2026-10-19|2026-10-06|PDRA Roslin Institute livestock hologenomics gene edits feed efficiency genomic regions
 https://roslinct.teamtailor.com/jobs/8428808-senior-quality-operations-manager|unknown|2026-10-06|Senior Quality Operations Manager RoslinCT BioQuarter cell and gene therapy GMP quality leadership (marginal)
+https://roslinct.teamtailor.com/jobs/8506970-manufacturing-biotechnologist-i-clinical-projects|unknown|2026-10-07|Manufacturing Biotechnologist I Clinical Projects RoslinCT BioQuarter GMP cell bank manufacture stem cell therapy (marginal)
+https://roslinct.teamtailor.com/jobs/8507250-manufacturing-batch-reviewer-i|unknown|2026-10-07|Manufacturing Batch Reviewer I RoslinCT BioQuarter cell and gene therapy batch record review deviations (marginal)
