@@ -1,5 +1,4 @@
 https://www.jobs.ac.uk/job/DSR298/postdoctoral-research-associate|2026-09-30|2026-08-27|PDRA fungal pathogen bioimaging strain engineering
-https://moredun.factorialhr.co.uk/job_posting/study-director-319467|2026-09-23|2026-08-28|Study Director Moredun Scientific animal health vaccine R&D (marginal)
 https://roslinct.teamtailor.com/jobs/8245840-msat-scientist-clinical-manufacturing|unknown|2026-08-28|MSAT Scientist Clinical Manufacturing RoslinCT cell therapy (marginal)
 https://jobs.cranleighstem.co.uk/jobs/5916268-research-lab-technician|unknown|2026-09-01|Research Lab Technician Edinburgh RNA biotech start-up via Cranleigh STEM
 https://www.cv-library.co.uk/job/218622457/Molecular-Scientist-Team-Leader|unknown|2026-09-01|Molecular Scientist Team Leader engineering biology Edinburgh via Entrust
@@ -8,7 +7,6 @@ https://www.jobs.ac.uk/job/DSU273/postdoctoral-research-associate|2026-09-29|202
 https://roslinct.teamtailor.com/jobs/8245793-msat-scientist-commercial-manufacturing|unknown|2026-09-01|MSAT Scientist Commercial Manufacturing RoslinCT (marginal)
 https://roslinct.teamtailor.com/jobs/8155013-quality-control-analyst-i-microbiology|unknown|2026-09-01|QC Analyst I Microbiology RoslinCT BioQuarter (marginal)
 https://roslinct.teamtailor.com/jobs/8296857-manufacturing-technician-commercial-manufacturing|unknown|2026-09-01|Manufacturing Technician Commercial Manufacturing RoslinCT (marginal)
-https://moredun.factorialhr.co.uk/job_posting/bioservices-technician-animal-care-husbandry-319549|2026-09-23|2026-09-01|Bioservices Technician Animal Care Husbandry Moredun (marginal)
 https://www.jobs.ac.uk/job/DSU539/research-and-innovation-fellows|2026-09-28|2026-09-03|Research and Innovation Fellows SRUC Edinburgh engineering biology/bioresource systems
 https://www.ingenza.com/careers/senior-scientist-i-molecular-biology/|2026-09-25|2026-09-10|Senior Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
 https://www.ingenza.com/careers/scientist-i-molecular-biology/|2026-09-25|2026-09-10|Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
@@ -40,3 +38,5 @@ https://www.jobs.ac.uk/job/DTD877/postdoctoral-research-associate|2026-10-19|202
 https://roslinct.teamtailor.com/jobs/8428808-senior-quality-operations-manager|unknown|2026-10-06|Senior Quality Operations Manager RoslinCT BioQuarter cell and gene therapy GMP quality leadership (marginal)
 https://roslinct.teamtailor.com/jobs/8506970-manufacturing-biotechnologist-i-clinical-projects|unknown|2026-10-07|Manufacturing Biotechnologist I Clinical Projects RoslinCT BioQuarter GMP cell bank manufacture stem cell therapy (marginal)
 https://roslinct.teamtailor.com/jobs/8507250-manufacturing-batch-reviewer-i|unknown|2026-10-07|Manufacturing Batch Reviewer I RoslinCT BioQuarter cell and gene therapy batch record review deviations (marginal)
+https://roslinct.teamtailor.com/jobs/8510559-quality-control-supervisor-analytical|unknown|2026-10-08|QC Supervisor Analytical RoslinCT BioQuarter GMP QC analytical lab leadership flow cytometry (marginal)
+https://www.jobs.ac.uk/job/DTD910/image-analysis-research-assistant|2026-10-19|2026-10-08|Image Analysis Research Assistant CCBS MS neuroimaging MRI pipelines segmentation (marginal)
