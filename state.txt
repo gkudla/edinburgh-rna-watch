@@ -8,10 +8,9 @@ https://roslinct.teamtailor.com/jobs/8245793-msat-scientist-commercial-manufactu
 https://roslinct.teamtailor.com/jobs/8155013-quality-control-analyst-i-microbiology|unknown|2026-09-01|QC Analyst I Microbiology RoslinCT BioQuarter (marginal)
 https://roslinct.teamtailor.com/jobs/8296857-manufacturing-technician-commercial-manufacturing|unknown|2026-09-01|Manufacturing Technician Commercial Manufacturing RoslinCT (marginal)
 https://www.jobs.ac.uk/job/DSU539/research-and-innovation-fellows|2026-09-28|2026-09-03|Research and Innovation Fellows SRUC Edinburgh engineering biology/bioresource systems
-https://www.ingenza.com/careers/senior-scientist-i-molecular-biology/|2026-09-25|2026-09-10|Senior Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
-https://www.ingenza.com/careers/scientist-i-molecular-biology/|2026-09-25|2026-09-10|Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
+https://www.ingenza.com/careers/senior-scientist-i-molecular-biology/|2026-10-23|2026-09-10|Senior Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
+https://www.ingenza.com/careers/scientist-i-molecular-biology/|2026-10-23|2026-09-10|Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
 https://roslinct.teamtailor.com/jobs/8351710-manufacturing-biotechnologist-i-commercial-manufacturing|unknown|2026-09-10|Manufacturing Biotechnologist I RoslinCT BioQuarter CRISPR cell therapy GMP (marginal)
-https://www.jobs.ac.uk/job/DSW935/engineering-biology-pdra|2026-09-24|2026-09-11|Engineering Biology PDRA Roslin CRISPR variant libraries sequencing assays avian cells
 https://www.jobs.ac.uk/job/DSW899/postdoctoral-research-associate|2026-10-07|2026-09-11|PDRA germline-restricted chromosomes programmed DNA elimination epigenetics IEE Bradysia
 https://www.jobs.ac.uk/job/DSW926/postdoctoral-research-associate-in-biometrics-and-quantitative-genetics-for-public-breeding|2026-10-01|2026-09-11|PDRA Biometrics and Quantitative Genetics for Public Breeding Roslin genomic datasets (marginal)
 https://www.jobs.ac.uk/job/DSW920/postdoctoral-research-associate-in-applied-artificial-intelligence-for-public-breeding|2026-10-01|2026-09-11|PDRA Applied AI for Public Breeding Roslin genomic phenotypic datasets (marginal)
@@ -40,3 +39,4 @@ https://roslinct.teamtailor.com/jobs/8506970-manufacturing-biotechnologist-i-cli
 https://roslinct.teamtailor.com/jobs/8507250-manufacturing-batch-reviewer-i|unknown|2026-10-07|Manufacturing Batch Reviewer I RoslinCT BioQuarter cell and gene therapy batch record review deviations (marginal)
 https://roslinct.teamtailor.com/jobs/8510559-quality-control-supervisor-analytical|unknown|2026-10-08|QC Supervisor Analytical RoslinCT BioQuarter GMP QC analytical lab leadership flow cytometry (marginal)
 https://www.jobs.ac.uk/job/DTD910/image-analysis-research-assistant|2026-10-19|2026-10-08|Image Analysis Research Assistant CCBS MS neuroimaging MRI pipelines segmentation (marginal)
+https://www.jobs.ac.uk/job/DTF132/postdoctoral-research-associate|2026-10-29|2026-10-09|PDRA IGC Jackson lab epigenetic regulation of stem and progenitor cells DNA methylation CRISPR barcoding epigenomic engineering
