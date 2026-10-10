@@ -15,7 +15,6 @@ https://www.jobs.ac.uk/job/DSW899/postdoctoral-research-associate|2026-10-07|202
 https://www.jobs.ac.uk/job/DSW926/postdoctoral-research-associate-in-biometrics-and-quantitative-genetics-for-public-breeding|2026-10-01|2026-09-11|PDRA Biometrics and Quantitative Genetics for Public Breeding Roslin genomic datasets (marginal)
 https://www.jobs.ac.uk/job/DSW920/postdoctoral-research-associate-in-applied-artificial-intelligence-for-public-breeding|2026-10-01|2026-09-11|PDRA Applied AI for Public Breeding Roslin genomic phenotypic datasets (marginal)
 https://www.jobs.ac.uk/job/DSX113/flow-cytometry-technician|2026-10-01|2026-09-12|Flow Cytometry Technician Institute of Genetics and Cancer Western General cell sorting
-https://moredun.factorialhr.co.uk/job_posting/senior-postdoctoral-research-scientist-321791|2026-09-25|2026-09-13|Senior Postdoctoral Research Scientist Moredun Toxoplasma detection proteomics PCR ELISA
 https://www.jobs.ac.uk/job/DSX799/post-doctoral-research-associate|2026-10-14|2026-09-15|PDRA DNA methylation DNMT3B gene-body transcription epigenomics IGC TT-seq CUT&RUN Nanopore hESC
 https://moredun.factorialhr.co.uk/job_posting/technical-officer-321985|2026-10-01|2026-09-16|Technical Officer Moredun Scientific Penicuik aquaculture vaccine/therapeutic lab studies (marginal)
 https://moredun.factorialhr.co.uk/job_posting/technical-officer-weekends-only-12-hours-322169|2026-10-01|2026-09-16|Technical Officer weekends only Moredun Scientific aquarium fish husbandry (marginal)
@@ -40,3 +39,4 @@ https://roslinct.teamtailor.com/jobs/8507250-manufacturing-batch-reviewer-i|unkn
 https://roslinct.teamtailor.com/jobs/8510559-quality-control-supervisor-analytical|unknown|2026-10-08|QC Supervisor Analytical RoslinCT BioQuarter GMP QC analytical lab leadership flow cytometry (marginal)
 https://www.jobs.ac.uk/job/DTD910/image-analysis-research-assistant|2026-10-19|2026-10-08|Image Analysis Research Assistant CCBS MS neuroimaging MRI pipelines segmentation (marginal)
 https://www.jobs.ac.uk/job/DTF132/postdoctoral-research-associate|2026-10-29|2026-10-09|PDRA IGC Jackson lab epigenetic regulation of stem and progenitor cells DNA methylation CRISPR barcoding epigenomic engineering
+https://www.jobs.ac.uk/job/DTF547/postdoctoral-research-associate|2026-11-13|2026-10-10|PDRA adaptive introgression in butterflies School of Biological Sciences IEE Lohse lab comparative population genomics whole-genome resequencing selective sweeps
