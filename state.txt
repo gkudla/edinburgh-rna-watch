@@ -3,7 +3,6 @@ https://roslinct.teamtailor.com/jobs/8245840-msat-scientist-clinical-manufacturi
 https://jobs.cranleighstem.co.uk/jobs/5916268-research-lab-technician|unknown|2026-09-01|Research Lab Technician Edinburgh RNA biotech start-up via Cranleigh STEM
 https://www.cv-library.co.uk/job/218622457/Molecular-Scientist-Team-Leader|unknown|2026-09-01|Molecular Scientist Team Leader engineering biology Edinburgh via Entrust
 https://www.glassdoor.co.uk/job-listing/lab-manager-cranleigh-stem-JV_IC3312271_KO0,11_KE12,26.htm?jl=1009884229921|unknown|2026-09-01|Lab Manager Life Sciences Edinburgh molecular biology/genomics via Cranleigh STEM
-https://www.jobs.ac.uk/job/DSU273/postdoctoral-research-associate|2026-09-29|2026-09-01|PDRA Roslin avian influenza in cattle multi-scale modelling (marginal)
 https://roslinct.teamtailor.com/jobs/8245793-msat-scientist-commercial-manufacturing|unknown|2026-09-01|MSAT Scientist Commercial Manufacturing RoslinCT (marginal)
 https://roslinct.teamtailor.com/jobs/8155013-quality-control-analyst-i-microbiology|unknown|2026-09-01|QC Analyst I Microbiology RoslinCT BioQuarter (marginal)
 https://roslinct.teamtailor.com/jobs/8296857-manufacturing-technician-commercial-manufacturing|unknown|2026-09-01|Manufacturing Technician Commercial Manufacturing RoslinCT (marginal)
@@ -39,3 +38,6 @@ https://roslinct.teamtailor.com/jobs/8510559-quality-control-supervisor-analytic
 https://www.jobs.ac.uk/job/DTD910/image-analysis-research-assistant|2026-10-19|2026-10-08|Image Analysis Research Assistant CCBS MS neuroimaging MRI pipelines segmentation (marginal)
 https://www.jobs.ac.uk/job/DTF132/postdoctoral-research-associate|2026-10-29|2026-10-09|PDRA IGC Jackson lab epigenetic regulation of stem and progenitor cells DNA methylation CRISPR barcoding epigenomic engineering
 https://www.jobs.ac.uk/job/DTF547/postdoctoral-research-associate|2026-11-13|2026-10-10|PDRA adaptive introgression in butterflies School of Biological Sciences IEE Lohse lab comparative population genomics whole-genome resequencing selective sweeps
+https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2015055|2026-10-18|2026-10-14|Scientist Pathology Forest Research Northern Research Station Roslin tree health pathology (marginal, description not readable)
+https://roslinct.teamtailor.com/jobs/8537569-quality-investigator-i|unknown|2026-10-14|Quality Investigator I RoslinCT BioQuarter cGMP deviation investigation root cause cell and gene therapy (marginal)
+https://www.danu-insights.com/careers/biotech-automation-engineer|2026-10-26|2026-10-14|Biotech Automation Engineer Wet Lab and AI Danu Insights Argyle House Edinburgh bioprocess automation (marginal)
