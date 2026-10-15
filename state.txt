@@ -1,4 +1,3 @@
-https://www.jobs.ac.uk/job/DSR298/postdoctoral-research-associate|2026-09-30|2026-08-27|PDRA fungal pathogen bioimaging strain engineering
 https://roslinct.teamtailor.com/jobs/8245840-msat-scientist-clinical-manufacturing|unknown|2026-08-28|MSAT Scientist Clinical Manufacturing RoslinCT cell therapy (marginal)
 https://jobs.cranleighstem.co.uk/jobs/5916268-research-lab-technician|unknown|2026-09-01|Research Lab Technician Edinburgh RNA biotech start-up via Cranleigh STEM
 https://www.cv-library.co.uk/job/218622457/Molecular-Scientist-Team-Leader|unknown|2026-09-01|Molecular Scientist Team Leader engineering biology Edinburgh via Entrust
@@ -41,3 +40,5 @@ https://www.jobs.ac.uk/job/DTF547/postdoctoral-research-associate|2026-11-13|202
 https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2015055|2026-10-18|2026-10-14|Scientist Pathology Forest Research Northern Research Station Roslin tree health pathology (marginal, description not readable)
 https://roslinct.teamtailor.com/jobs/8537569-quality-investigator-i|unknown|2026-10-14|Quality Investigator I RoslinCT BioQuarter cGMP deviation investigation root cause cell and gene therapy (marginal)
 https://www.danu-insights.com/careers/biotech-automation-engineer|2026-10-26|2026-10-14|Biotech Automation Engineer Wet Lab and AI Danu Insights Argyle House Edinburgh bioprocess automation (marginal)
+https://roslinct.teamtailor.com/jobs/8546720-quality-control-analyst-i-dadm-data-documentation|unknown|2026-10-15|QC Analyst I DADM Data and Documentation RoslinCT BioQuarter GMP QC documentation desk-based (marginal)
+https://roslinct.teamtailor.com/jobs/8543560-manufacturing-batch-reviewer-i-6-month-ftc|unknown|2026-10-15|Manufacturing Batch Reviewer I 6-Month FTC RoslinCT BioQuarter (same role as 8507250, not separately reported)
