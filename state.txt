@@ -1,11 +1,6 @@
-https://jobs.cranleighstem.co.uk/jobs/5916268-research-lab-technician|unknown|2026-09-01|Research Lab Technician Edinburgh RNA biotech start-up via Cranleigh STEM
-https://www.cv-library.co.uk/job/218622457/Molecular-Scientist-Team-Leader|unknown|2026-09-01|Molecular Scientist Team Leader engineering biology Edinburgh via Entrust
-https://www.glassdoor.co.uk/job-listing/lab-manager-cranleigh-stem-JV_IC3312271_KO0,11_KE12,26.htm?jl=1009884229921|unknown|2026-09-01|Lab Manager Life Sciences Edinburgh molecular biology/genomics via Cranleigh STEM
-https://roslinct.teamtailor.com/jobs/8245793-msat-scientist-commercial-manufacturing|unknown|2026-09-01|MSAT Scientist Commercial Manufacturing RoslinCT (marginal)
-https://roslinct.teamtailor.com/jobs/8155013-quality-control-analyst-i-microbiology|unknown|2026-09-01|QC Analyst I Microbiology RoslinCT BioQuarter (marginal)
-https://roslinct.teamtailor.com/jobs/8525973-manufacturing-technician-commercial-manufacturing|unknown|2026-09-01|Manufacturing Technician Commercial Manufacturing RoslinCT (marginal; relisted 2026-10, URL updated to live requisition)
-https://www.ingenza.com/careers/senior-scientist-i-molecular-biology/|2026-11-06|2026-09-10|Senior Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
-https://www.ingenza.com/careers/scientist-i-molecular-biology/|2026-11-06|2026-09-10|Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
+https://www.ingenza.com/careers/senior-scientist-i-molecular-biology/|2026-10-23|2026-09-10|Senior Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
+https://www.ingenza.com/careers/scientist-i-molecular-biology/|2026-10-23|2026-09-10|Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
+https://roslinct.teamtailor.com/jobs/8525973-manufacturing-technician-commercial-manufacturing|unknown|2026-09-01|Manufacturing Technician Commercial Manufacturing RoslinCT (marginal; still live on RoslinCT board 2026-11-01)
 https://roslinct.teamtailor.com/jobs/8351710-manufacturing-biotechnologist-i-commercial-manufacturing|unknown|2026-09-10|Manufacturing Biotechnologist I RoslinCT BioQuarter CRISPR cell therapy GMP (marginal)
 https://www.jobs.ac.uk/job/DTA728/research-assistant|2026-10-23|2026-09-24|Research Assistant IGC Sproul group DNA methylation gene regulation epigenomics variant libraries
 https://www.jobs.ac.uk/job/DTB348/postdoctoral-research-associate|2026-10-23|2026-09-26|PDRA Centre for Clinical Brain Sciences Mahad lab single-cell mitochondrial function and mtDNA chronic neurodegeneration MS
