@@ -1,6 +1,6 @@
-https://www.ingenza.com/careers/senior-scientist-i-molecular-biology/|2026-10-23|2026-09-10|Senior Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
-https://www.ingenza.com/careers/scientist-i-molecular-biology/|2026-10-23|2026-09-10|Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
-https://roslinct.teamtailor.com/jobs/8525973-manufacturing-technician-commercial-manufacturing|unknown|2026-09-01|Manufacturing Technician Commercial Manufacturing RoslinCT (marginal; still live on RoslinCT board 2026-11-01)
+https://www.ingenza.com/careers/senior-scientist-i-molecular-biology/|2026-11-06|2026-09-10|Senior Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
+https://www.ingenza.com/careers/scientist-i-molecular-biology/|2026-11-06|2026-09-10|Scientist I Molecular Biology Ingenza Edinburgh Technopole strain engineering
+https://roslinct.teamtailor.com/jobs/8525973-manufacturing-technician-commercial-manufacturing|unknown|2026-09-01|Manufacturing Technician Commercial Manufacturing RoslinCT (marginal; still live on RoslinCT board 2026-11-02)
 https://roslinct.teamtailor.com/jobs/8351710-manufacturing-biotechnologist-i-commercial-manufacturing|unknown|2026-09-10|Manufacturing Biotechnologist I RoslinCT BioQuarter CRISPR cell therapy GMP (marginal)
 https://www.jobs.ac.uk/job/DTA728/research-assistant|2026-10-23|2026-09-24|Research Assistant IGC Sproul group DNA methylation gene regulation epigenomics variant libraries
 https://www.jobs.ac.uk/job/DTB348/postdoctoral-research-associate|2026-10-23|2026-09-26|PDRA Centre for Clinical Brain Sciences Mahad lab single-cell mitochondrial function and mtDNA chronic neurodegeneration MS
@@ -15,7 +15,6 @@ https://roslinct.teamtailor.com/jobs/8510559-quality-control-supervisor-analytic
 https://www.jobs.ac.uk/job/DTD910/image-analysis-research-assistant|2026-10-19|2026-10-08|Image Analysis Research Assistant CCBS MS neuroimaging MRI pipelines segmentation (marginal)
 https://www.jobs.ac.uk/job/DTF132/postdoctoral-research-associate|2026-10-29|2026-10-09|PDRA IGC Jackson lab epigenetic regulation of stem and progenitor cells DNA methylation CRISPR barcoding epigenomic engineering
 https://www.jobs.ac.uk/job/DTF547/postdoctoral-research-associate|2026-11-13|2026-10-10|PDRA adaptive introgression in butterflies School of Biological Sciences IEE Lohse lab comparative population genomics whole-genome resequencing selective sweeps
-https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2015055|2026-10-18|2026-10-14|Scientist Pathology Forest Research Northern Research Station Roslin tree health pathology (marginal, description not readable)
 https://roslinct.teamtailor.com/jobs/8537569-quality-investigator-i|unknown|2026-10-14|Quality Investigator I RoslinCT BioQuarter cGMP deviation investigation root cause cell and gene therapy (marginal)
 https://www.danu-insights.com/careers/biotech-automation-engineer|2026-10-26|2026-10-14|Biotech Automation Engineer Wet Lab and AI Danu Insights Argyle House Edinburgh bioprocess automation (marginal)
 https://roslinct.teamtailor.com/jobs/8626725-quality-control-analyst-i-dadm-data-documentation|unknown|2026-10-15|QC Analyst I DADM Data and Documentation RoslinCT BioQuarter GMP QC documentation desk-based (marginal; relisted 2026-10, URL updated to live requisition)
